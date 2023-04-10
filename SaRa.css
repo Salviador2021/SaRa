@@ -1,0 +1,41 @@
+.body{
+	position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #FFFFFF
+}
+.table1{
+    position: relative; 
+    width: 400px;
+}
+.table2{
+    background-color: #000000; 
+    width: 1000px;
+    border-radius: 20px;
+}
+.catalog{
+    position: relative; 
+    text-align: left;
+}
+.sales{
+    position: relative; 
+    text-align: center; 
+    color: #FFFFFF;
+}
+.shtorka{
+    background-color: #000000;
+    border-radius: 20px;
+}
+.Goods{
+    width: 230px; 
+    height: 230px;
+}
+.imgstile{
+    width: 215px; 
+    height: 215px; 
+    border-radius: 20px;
+}
+.link{
+    text-decoration: none;
+}
