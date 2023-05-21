@@ -1,0 +1,32 @@
+.container{
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.text{
+	color: #ffc800;
+}
+.digitalClock{
+
+	width: fit-content;
+	margin: auto;
+	padding: 10px;
+	background-color: black;
+}
+
+.digitalClock h1{
+	display: inline-block;
+	margin: 0 10px;
+}
+
+@media(max-width: 1980px)
+{
+	#bar1, #bar2{
+		display: none;
+	}
+
+	.digitalClock{
+		text-align: center;
+	}
+}

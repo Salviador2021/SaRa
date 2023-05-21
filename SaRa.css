@@ -18,10 +18,11 @@
     position: relative; 
     text-align: left;
 }
-.sales{
+.sales123{
     position: relative; 
     text-align: center; 
-    color: #FFFFFF;
+    color: #ffc800;
+    text-decoration: none;
 }
 .shtorka{
     background-color: #000000;
